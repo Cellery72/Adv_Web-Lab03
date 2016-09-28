@@ -1,0 +1,14 @@
+{
+  "name": "lab3",
+  "version": "0.0.1",
+  "description": "Node.js simple calculator.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Cellery72",
+  "license": "BSD",
+  "dependencies": {
+    "connect": "~3.5.0"
+  }
+}
